@@ -18,6 +18,8 @@ In 2018 I started teaching the class at **Brinn Labs**, usually with the help of
 
 I no longer teach the Beginner Arduino Class, but I wanted to share the files in case anyone else could find them useful.
 
+Each lesson contains an Arduino sketch and a wiring diagram (as a Fritzing file, and a PNG file). In some cases there are also images showing components, and most of the sketches should have links to the concepts/functions used in the sketch.
+
 
 ---
 

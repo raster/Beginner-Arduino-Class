@@ -4,7 +4,7 @@ In 2016 I taught a classed titled **Electronics & Sculpture** in the Peck School
 
 Basically, it was teaching art students, some of whom never programmed or wrote any code, how to activate their art using the [Arduino](https://arduino.cc/) platform.
 
-We had five concept we wanted to cover:
+We had five concepts we wanted to cover:
 
 1. Digital Input
 2. Digital Output

@@ -1,6 +1,6 @@
 # Beginner Arduino Class
 
-In 2016 I taught a classed titled **Electronics & Sculpture** in the Peck School of the Arts at the [https://uwm.edu/](University of Wisconsin Milwaukee). I often referred to the class as "Arduino for Artists".
+In 2016 I taught a classed titled **Electronics & Sculpture** in the Peck School of the Arts at the [University of Wisconsin Milwaukee](https://uwm.edu/). I often referred to the class as "Arduino for Artists".
 
 Basically, it was teaching art students, some of whom never programmed or wrote any code, how to activate their art using the [Arduino](https://arduino.cc/) platform.
 

@@ -1,6 +1,6 @@
 # Beginner Arduino Class
 
-In 2016 I taught a classed titled **Electronics & Sculpture** in the Peck School of the Arts at the University of Wisconsin Milwaukee. I often referred to the class as "Arduino for Artists".
+In 2016 I taught a classed titled **Electronics & Sculpture** in the Peck School of the Arts at the [https://uwm.edu/](University of Wisconsin Milwaukee). I often referred to the class as "Arduino for Artists".
 
 Basically, it was teaching art students, some of whom never programmed or wrote any code, how to activate their art using the [Arduino](https://arduino.cc/) platform.
 
@@ -18,7 +18,7 @@ In 2018 I started teaching the class at **Brinn Labs**, usually with the help of
 
 I no longer teach the Beginner Arduino Class, but I wanted to share the files in case anyone else could find them useful.
 
-Each lesson contains an Arduino sketch and a wiring diagram (as a Fritzing file, and a PNG file). In some cases there are also images showing components, and most of the sketches should have links to the concepts/functions used in the sketch.
+Each lesson contains an Arduino sketch and a wiring diagram (as a [Fritzing](https://fritzing.org/) file, and a PNG file). In some cases there are also images showing components, and most of the sketches should have links to the concepts/functions used in the sketch.
 
 
 ---
